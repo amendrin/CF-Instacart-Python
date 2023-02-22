@@ -13,7 +13,7 @@ The dataset is comprised of open-source datasets from Instacart on the following
  
  Full details of the data are [here](https://www.instacart.com/datasets/grocery-shopping-2017)
 # Tools 
-For this project, the following pythin libraries were used:
+For this project, the following python libraries were used:
   - pandas: for data analysis
   - numpy: for mathematical operations
   - seaborn: for visualization
